@@ -1,0 +1,48 @@
+#div{
+  background-color: lightcoral;
+  height:50px;
+  position: fixed;
+  width:100%;
+  color:aliceblue;
+  text-align: center;
+  padding:0px 0px 8px 0px
+}
+.img1{
+ margin-top: 80px;
+ width:200px;
+ 
+}
+.img5{
+ margin-top: 80px;
+  float: inline-end;
+}
+.img2{
+margin-top: 5px;
+
+}
+.img6{
+  float: inline-end;
+  
+  
+}
+.img3{
+margin-bottom: 20px;
+;
+}
+.img7{
+
+  float:inline-end;
+}
+
+.img8{
+  margin-top: 20px;
+  margin-left: 500px;
+ float: inline-end;
+ 
+
+}
+.img{
+ display: block;
+ margin: auto;
+ border-radius: 20px;
+}
